@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stream>
+  <solvable kind="package" name="7zip" status="installed" edition="1-1" arch="x86_64" repository="Main"/>
+  <solvable type="package" name="nano" status="available" edition="7.2-1" arch="x86_64" repository="OSS"/>
+  <solvable kind="pattern" name="base" edition="1" arch="x86_64" repository="Patterns"/>
+</stream>

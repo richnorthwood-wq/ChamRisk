@@ -1,0 +1,4 @@
+This build presents ChamRisk application information and bundled legal notices in-app.
+
+The application UI crate version is taken from Cargo package metadata at build time.
+No standalone full license file is currently bundled in this repository root, so this panel shows a short summary rather than a full license body.

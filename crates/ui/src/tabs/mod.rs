@@ -1,0 +1,14 @@
+#[path = "tab_about.rs"]
+pub mod about;
+#[path = "tab_btrfs.rs"]
+pub mod btrfs;
+#[path = "tab_health.rs"]
+pub mod health;
+#[path = "tab_package.rs"]
+pub mod package_manager;
+#[path = "tab_reports.rs"]
+pub mod reports;
+#[path = "tab_settings.rs"]
+pub mod settings;
+#[path = "tab_triage.rs"]
+pub mod triage_ai;

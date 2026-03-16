@@ -1,0 +1,27 @@
+[package]
+name = "chamrisk-ui"
+version = "0.1.0"
+edition = "2021"
+default-run = "chamrisk"
+
+[lib]
+name = "chamrisk_ui"
+path = "src/lib.rs"
+
+[[bin]]
+name = "chamrisk"
+path = "src/main.rs"
+
+[dependencies]
+chamrisk-core = { path = "../core" }
+chamrisk-ops = { path = "../ops" }
+eframe = { version = "0.27", default-features = true }
+egui_extras = "0.27"
+rfd = "0.17.2"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+chrono = { version = "0.4", features = ["serde", "clock"] }
+libc = "0.2"
+
+[dev-dependencies]
+tempfile = "3"

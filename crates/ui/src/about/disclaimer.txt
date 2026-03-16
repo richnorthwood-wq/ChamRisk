@@ -1,0 +1,5 @@
+ChamRisk provides assistance and operational guidance for system maintenance, update planning, and package actions.
+
+Update and maintenance outcomes cannot be guaranteed. Users remain responsible for reviewing actions before execution, keeping appropriate backups or snapshots, and validating decisions against their own system requirements.
+
+This software is provided without warranty of fitness, availability, or suitability for any particular system configuration.

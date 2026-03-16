@@ -1,0 +1,17 @@
+Package: yast2
+Action: upgrade
+Current Version: 4.5.1
+New Version: 4.5.2
+Arch: noarch
+Repository: OSS
+Vendor Change: no
+Repo Change: no
+
+Package: mesa
+Action: vendor change
+Current Version: 23.1
+New Version: 23.2
+Arch: x86_64
+Repository: Packman
+Vendor Change: yes
+Repo Change: yes

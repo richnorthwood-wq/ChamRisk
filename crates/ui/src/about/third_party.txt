@@ -1,0 +1,3 @@
+This repository does not currently ship a dedicated third-party acknowledgements manifest.
+
+The application depends on third-party Rust crates and system tools, including egui/eframe, rfd, chrono, rusqlite, and openSUSE maintenance tooling.

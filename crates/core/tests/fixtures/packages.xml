@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stream>
+  <package name="vim" edition="9.0-1" arch="x86_64" repository="oss" summary="Vi IMproved editor"/>
+  <package name="curl" version="8.6.0-2" arch="x86_64" repository="updates"/>
+  <package name="nano" arch="noarch" repository="oss">
+    <summary>Small and friendly text editor</summary>
+  </package>
+</stream>

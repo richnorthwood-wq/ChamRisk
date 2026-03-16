@@ -1,0 +1,10 @@
+Loading repository data...
+Reading installed packages...
+
++----------------+-------------------+---------+---------+----------------------+--------+--------+----------------------------+
+| Repository     | Name              | Current | New     | Status               | Arch   | Kind   | Vendor                     |
+|----------------+-------------------+---------+---------+----------------------+--------+--------+----------------------------|
+| OSS            | vim               | 9.0-1   | 9.0-2   | upgrade              | x86_64 | package| openSUSE                   |
+| Packman        | ffmpeg            | 5.0-1   | 5.1-2   | vendor change        | x86_64 | package| openSUSE -> Packman        |
+| Update         | kernel-default    | 6.0-1   | 6.1-1   | upgrade from update  | x86_64 | package| openSUSE                   |
++----------------+-------------------+---------+---------+----------------------+--------+--------+----------------------------+
